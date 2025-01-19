@@ -10,11 +10,11 @@ Recipe-Quest is a modern recipe application designed for food enthusiasts! With 
 
 ## Table of Contents
 1. [Features](#features)
-2. [Live Demo](#live-demo)
+2. [Live Demo](#live-site-%EF%B8%8F)
 3. [Technologies Used](#technologies-used)
 4. [Getting Started](#getting-started)
 5. [Screenshots](#screenshots)
-7. [Acknowledgments](#acknowledgments)
+6. [Acknowledgments](#acknowledgments)
 
 ---
 
