@@ -72,11 +72,13 @@ Ensure you have the following installed:
   
 ## Screenshots
  **Home Page**
+ 
+ <img src="./src/img/recipeQuest-HomePage.png"/>
 
-![enter image description here](https://i.postimg.cc/6ppF4vxd/Recipe-Quest-Mockup.png)
 
  **Recipe Details**
-![enter image description here](https://i.postimg.cc/Qx0yDdKV/Recipe-result-Mockup.png)
+ 
+<img src="./src/img/recipeQuest-Detailed-View.png"/>
 
 ## Acknowledgments
 [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
